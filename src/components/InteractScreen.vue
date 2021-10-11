@@ -74,4 +74,9 @@ export default {
 };
 </script>
 
-<style scoped></style>
+<style scoped>
+.screen{
+  widows: 100%;
+  height: 100vh;
+}
+</style>
